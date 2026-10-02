@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T16:26-04:00",
+ "updated": "2026-10-02T10:08+00:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -78,13 +78,15 @@
    "date": "Dec 1, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
-   "opponent": "Brampton City"
+   "opponent": "Brampton City",
+   "theme": "Food Drive"
   },
   {
    "date": "Dec 1, 2026",
    "time": "8:00pm - 10:00pm",
    "home": "OP NATIONAL",
-   "opponent": "Lincoln Prep"
+   "opponent": "Lincoln Prep",
+   "theme": "Food Drive"
   },
   {
    "date": "Dec 8, 2026",
@@ -140,8 +142,7 @@
    "date": "Feb 16, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
-   "opponent": "Crestwood",
-   "theme": "Senior Night"
+   "opponent": "Crestwood"
   },
   {
    "date": "Feb 16, 2027",
@@ -169,7 +170,9 @@
    "date": "Feb 28, 2027",
    "time": "12:00pm - 2:00pm",
    "home": "OP SR.WBB",
-   "opponent": "Lo-Ellen Park"
+   "opponent": "Lo-Ellen Park",
+   "theme": "Senior Night",
+   "description": "Senior Night"
   }
  ]
 }
