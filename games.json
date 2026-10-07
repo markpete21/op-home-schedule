@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:06+00:00",
+ "updated": "2026-10-07T10:06+00:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -15,6 +15,12 @@
    "opponent": "Burlington Senior"
   },
   {
+   "date": "Oct 15, 2026",
+   "time": "6:00pm - 8:00pm",
+   "home": "OP SR.WBB",
+   "opponent": "C.O.D.E. Academy"
+  },
+  {
    "date": "Oct 20, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
@@ -24,7 +30,7 @@
   },
   {
    "date": "Oct 27, 2026",
-   "time": "6:00pm - 8:00pm",
+   "time": "8:00pm - 10:00pm",
    "home": "OP Varsity 1",
    "opponent": "Fort Erie",
    "theme": "Halloween Night",
@@ -61,12 +67,6 @@
    "description": "Band, contests, prizes and giveaways."
   },
   {
-   "date": "Nov 22, 2026",
-   "time": "6:00pm - 8:00pm",
-   "home": "OP SR.WBB",
-   "opponent": "CODE"
-  },
-  {
    "date": "Nov 24, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
@@ -96,7 +96,7 @@
   },
   {
    "date": "Dec 10, 2026",
-   "time": "8:00pm - 10:00pm",
+   "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Polaris Prep",
    "theme": "Christmas Theme",
@@ -122,11 +122,11 @@
    "date": "Jan 19, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
-   "opponent": "Tall Pines"
+   "opponent": "King Heights National"
   },
   {
    "date": "Jan 27, 2027",
-   "time": "7:00pm - 9:00pm",
+   "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Royal Crown School",
    "theme": "Alumni Night",
