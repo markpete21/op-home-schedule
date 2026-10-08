@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:06+00:00",
+ "updated": "2026-10-08T10:06+00:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -18,14 +18,15 @@
    "date": "Oct 15, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
-   "opponent": "C.O.D.E. Academy"
+   "opponent": "C.O.D.E. Academy",
+   "theme": "Home Opener"
   },
   {
    "date": "Oct 20, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Crestwood Blue",
-   "theme": "She Hoops Night/Home Opener",
+   "theme": "She Hoops Night",
    "description": "Dance and cheer at half; women's rep and alumni honoured."
   },
   {
@@ -79,14 +80,14 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
    "opponent": "Brampton City",
-   "theme": "Food Drive"
+   "theme": "Toy Drive"
   },
   {
    "date": "Dec 1, 2026",
    "time": "8:00pm - 10:00pm",
    "home": "OP NATIONAL",
    "opponent": "Lincoln Prep",
-   "theme": "Toy Drive/Orangeville Bears Teddy Toss"
+   "theme": "Toy Drive"
   },
   {
    "date": "Dec 8, 2026",
