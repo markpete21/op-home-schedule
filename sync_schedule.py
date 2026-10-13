@@ -8,7 +8,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SHEET = "Home Games"
 PUBLIC = {"date": "date", "time": "time", "home team": "home", "opponent": "opponent",
           "theme": "theme", "promotion/description": "description",
-          "ticket url": "tickets", "stream url": "stream"}
+          "ticket url": "tickets", "ticketing link": "tickets", "ticket link": "tickets",
+          "stream url": "stream", "livestream link": "stream", "live stream link": "stream"}
+LINKS = ("tickets", "stream")  # only real web addresses are published; "x", "TBD" etc. mean no link yet
 
 def rows_of_sheet(text, name):
     m = re.search(r"^## Sheet:\s*" + re.escape(name) + r"\b.*$", text, re.M)
@@ -27,6 +29,10 @@ def main(path):
     if hi is None:
         sys.exit("ERROR: header row (Date / Opponent) not found")
     cols = [PUBLIC.get(c.strip().lower()) for c in rows[hi]]
+    for c in rows[hi]:
+        n = c.strip().lower()
+        if n not in PUBLIC and re.search(r"link|url|ticket|stream", n) and not re.match(r"live stream \d", n):
+            print("WARNING: unrecognised column '%s' (not published). Ask Claude to map it if it should appear on the site." % c.strip())
     fallback = json.load(open(os.path.join(HERE, "descriptions.json"), encoding="utf-8"))
     games = []
     for r in rows[hi + 1:]:
@@ -36,6 +42,9 @@ def main(path):
                 g[k] = (r[i] if i < len(r) else "").strip()
         if not g.get("date") or not g.get("opponent") or not re.search(r"\d", g["date"]):
             continue
+        for k in LINKS:
+            if not re.match(r"https?://\S+$", g.get(k, "")):
+                g.pop(k, None)
         if not g.get("description"):
             g["description"] = fallback.get((g.get("home", "") + "|" + g["opponent"]).lower(), "")
         games.append({k: v for k, v in g.items() if v})

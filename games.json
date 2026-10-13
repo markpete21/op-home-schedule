@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T10:06+00:00",
+ "updated": "2026-10-13T09:18-04:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -19,6 +19,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "C.O.D.E. Academy",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-code",
    "theme": "Home Opener"
   },
   {
@@ -26,6 +27,8 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Crestwood Blue",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-crestwood-blue",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb",
    "theme": "She Hoops Night",
    "description": "Dance and cheer at half; women's rep and alumni honoured."
   },
@@ -34,6 +37,7 @@
    "time": "8:00pm - 10:00pm",
    "home": "OP Varsity 1",
    "opponent": "Fort Erie",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-fort-erie",
    "theme": "Halloween Night",
    "description": "Costumes get in free. Costume contest and candy toss giveaways."
   },
@@ -42,6 +46,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Ridley College",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-ridley-college",
    "theme": "Homecoming",
    "description": "Home opener. Free tee, first 50; autographs."
   },
@@ -49,13 +54,15 @@
    "date": "Nov 5, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
-   "opponent": "Victory Prep"
+   "opponent": "Victory Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-victory-prep"
   },
   {
    "date": "Nov 10, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Fort Erie",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-fort-erie",
    "theme": "Homecoming",
    "description": "Band, contests, prizes and giveaways."
   },
@@ -64,6 +71,7 @@
    "time": "8:00pm - 10:00pm",
    "home": "OP Varsity 1",
    "opponent": "St.Jude's Blue",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-st-jude-s-blue",
    "theme": "Homecoming",
    "description": "Band, contests, prizes and giveaways."
   },
@@ -72,6 +80,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Father Henry Carr",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-father-henry-carr",
    "theme": "Family Night $10 bring your whole family",
    "description": "$10 per family; first 10 families are free. Family games."
   },
@@ -80,6 +89,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
    "opponent": "Brampton City",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-brampton-city-prep",
    "theme": "Toy Drive"
   },
   {
@@ -87,19 +97,22 @@
    "time": "8:00pm - 10:00pm",
    "home": "OP NATIONAL",
    "opponent": "Lincoln Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-lincoln-prep",
    "theme": "Toy Drive"
   },
   {
    "date": "Dec 8, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
-   "opponent": "Niagara Prep"
+   "opponent": "Niagara Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-niagara-prep"
   },
   {
    "date": "Dec 10, 2026",
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Polaris Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-polaris-prep",
    "theme": "Christmas Theme",
    "description": "Ugly sweaters. Santa relay and Christmas giveaways."
   },
@@ -108,6 +121,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
    "opponent": "Tri-City Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-tri-city-prep",
    "theme": "New Year Tip-Off / White Out",
    "description": "Free white towel for the first 50."
   },
@@ -116,6 +130,7 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Crestwood Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-crestwood-prep",
    "theme": "ODSS Night, Student card gets in free",
    "description": "Students and teachers free. ODSS band, mascot and ODSS-run activities."
   },
@@ -123,13 +138,15 @@
    "date": "Jan 19, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
-   "opponent": "King Heights National"
+   "opponent": "King Heights National",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-king-heights-national"
   },
   {
    "date": "Jan 27, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Royal Crown School",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-royal-crown",
    "theme": "Alumni Night",
    "description": "Alumni honoured; alumni 3-pt contest."
   },
@@ -137,19 +154,22 @@
    "date": "Feb 9, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
-   "opponent": "Lincoln Prep"
+   "opponent": "Lincoln Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-lincoln-prep"
   },
   {
    "date": "Feb 16, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
-   "opponent": "Crestwood"
+   "opponent": "Crestwood",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-crestwood-prep"
   },
   {
    "date": "Feb 16, 2027",
    "time": "8:00pm - 10:00pm",
    "home": "OP Varsity 1",
    "opponent": "Polaris Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-polairs-prep",
    "theme": "Senior Night",
    "description": "Free hot dog with every online ticket purchase."
   },
@@ -157,13 +177,15 @@
    "date": "Feb 23, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
-   "opponent": "Brampton City Prep"
+   "opponent": "Brampton City Prep",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-brampton-city-prep"
   },
   {
    "date": "Feb 25, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Fort Erie",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-fort-erie",
    "theme": "Senior Night / Bears Day",
    "description": "Bears Basketball and Volleyball Club appreciation."
   },
@@ -172,6 +194,7 @@
    "time": "12:00pm - 2:00pm",
    "home": "OP SR.WBB",
    "opponent": "Lo-Ellen Park",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-lo-ellen-park",
    "theme": "Senior Night",
    "description": "Senior Night"
   }
