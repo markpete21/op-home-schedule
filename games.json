@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T10:05+00:00",
+ "updated": "2026-10-14T15:01-04:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -38,6 +38,7 @@
    "home": "OP Varsity 1",
    "opponent": "Fort Erie",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-fort-erie",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-varsity-vs-fort-erie",
    "theme": "Halloween Night",
    "description": "Costumes get in free. Costume contest and candy toss giveaways."
   },
@@ -47,6 +48,7 @@
    "home": "OP NATIONAL",
    "opponent": "Ridley College",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-ridley-college",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national",
    "theme": "Homecoming",
    "description": "Home opener. Free tee, first 50; autographs."
   },
@@ -55,7 +57,8 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
    "opponent": "Victory Prep",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-victory-prep"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-victory-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-victory-prep"
   },
   {
    "date": "Nov 10, 2026",
@@ -63,6 +66,7 @@
    "home": "OP SR.WBB",
    "opponent": "Fort Erie",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-fort-erie",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie",
    "theme": "Homecoming",
    "description": "Band, contests, prizes and giveaways."
   },
@@ -72,6 +76,7 @@
    "home": "OP Varsity 1",
    "opponent": "St.Jude's Blue",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-st-jude-s-blue",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-st-jude-s-blue",
    "theme": "Homecoming",
    "description": "Band, contests, prizes and giveaways."
   },
@@ -81,6 +86,7 @@
    "home": "OP NATIONAL",
    "opponent": "Father Henry Carr",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-father-henry-carr",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr",
    "theme": "Family Night $10 bring your whole family",
    "description": "$10 per family; first 10 families are free. Family games."
   },
@@ -90,6 +96,7 @@
    "home": "OP Varsity 1",
    "opponent": "Brampton City",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-brampton-city-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-st-jude-s-blue-copy-9ve5",
    "theme": "Toy Drive"
   },
   {
@@ -98,6 +105,7 @@
    "home": "OP NATIONAL",
    "opponent": "Lincoln Prep",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-lincoln-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl",
    "theme": "Toy Drive"
   },
   {
@@ -105,7 +113,8 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Niagara Prep",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-niagara-prep"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-niagara-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie-copy-qtz0"
   },
   {
    "date": "Dec 10, 2026",
@@ -113,6 +122,7 @@
    "home": "OP NATIONAL",
    "opponent": "Polaris Prep",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-polaris-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0",
    "theme": "Christmas Theme",
    "description": "Ugly sweaters. Santa relay and Christmas giveaways."
   },
@@ -122,6 +132,7 @@
    "home": "OP Varsity 1",
    "opponent": "Tri-City Prep",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-tri-city-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-st-jude-s-blue-copy-9ve5-copy-hhnx",
    "theme": "New Year Tip-Off / White Out",
    "description": "Free white towel for the first 50."
   },
@@ -131,6 +142,7 @@
    "home": "OP NATIONAL",
    "opponent": "Crestwood Prep",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-crestwood-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0-copy-xy5y",
    "theme": "ODSS Night, Student card gets in free",
    "description": "Students and teachers free. ODSS band, mascot and ODSS-run activities."
   },
@@ -139,7 +151,8 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP Varsity 1",
    "opponent": "King Heights National",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-king-heights-national"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-king-heights-national",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-st-jude-s-blue-copy-9ve5-copy-hhnx-copy-xa5r"
   },
   {
    "date": "Jan 27, 2027",
@@ -147,6 +160,7 @@
    "home": "OP NATIONAL",
    "opponent": "Royal Crown School",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-royal-crown",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0-copy-xy5y-copy-hb79",
    "theme": "Alumni Night",
    "description": "Alumni honoured; alumni 3-pt contest."
   },
@@ -155,14 +169,16 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Lincoln Prep",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-lincoln-prep"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-lincoln-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie-copy-qtz0-copy-jyon"
   },
   {
    "date": "Feb 16, 2027",
    "time": "6:00pm - 8:00pm",
    "home": "OP SR.WBB",
    "opponent": "Crestwood",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-crestwood-prep"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-crestwood-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie-copy-qtz0-copy-jyon-copy-xk75"
   },
   {
    "date": "Feb 16, 2027",
@@ -170,6 +186,7 @@
    "home": "OP Varsity 1",
    "opponent": "Polaris Prep",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-varsity-vs-polairs-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-varsity-vs-st-jude-s-blue-copy-9ve5-copy-hhnx-copy-xa5r-copy-aw2v",
    "theme": "Senior Night",
    "description": "Free hot dog with every online ticket purchase."
   },
@@ -178,7 +195,8 @@
    "time": "6:00pm - 8:00pm",
    "home": "OP NATIONAL",
    "opponent": "Brampton City Prep",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-brampton-city-prep"
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-brampton-city-prep",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0-copy-xy5y-copy-hb79-copy-io3k"
   },
   {
    "date": "Feb 25, 2027",
@@ -186,6 +204,7 @@
    "home": "OP NATIONAL",
    "opponent": "Fort Erie",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-national-vs-fort-erie",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0-copy-xy5y-copy-hb79-copy-io3k-copy-lvtg",
    "theme": "Senior Night / Bears Day",
    "description": "Bears Basketball and Volleyball Club appreciation."
   },
@@ -195,6 +214,7 @@
    "home": "OP SR.WBB",
    "opponent": "Lo-Ellen Park",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-lo-ellen-park",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie-copy-qtz0-copy-jyon-copy-xk75-copy-avv4",
    "theme": "Senior Night",
    "description": "Senior Night"
   }
