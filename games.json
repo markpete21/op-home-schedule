@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:01-04:00",
+ "updated": "2026-10-14T16:49-04:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -20,6 +20,7 @@
    "home": "OP SR.WBB",
    "opponent": "C.O.D.E. Academy",
    "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-code",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-code-academy",
    "theme": "Home Opener"
   },
   {
