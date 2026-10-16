@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T16:55-04:00",
+ "updated": "2026-10-16T15:36-04:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -63,16 +63,6 @@
   },
   {
    "date": "Nov 10, 2026",
-   "time": "6:00pm - 8:00pm",
-   "home": "OP SR.WBB",
-   "opponent": "Fort Erie",
-   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-fort-erie",
-   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie",
-   "theme": "Homecoming",
-   "description": "Band, contests, prizes and giveaways."
-  },
-  {
-   "date": "Nov 10, 2026",
    "time": "8:00pm - 10:00pm",
    "home": "OP Varsity 1",
    "opponent": "St.Jude's Blue",
@@ -124,6 +114,20 @@
    "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-national-vs-father-henry-carr-copy-25pl-copy-0ul0",
    "theme": "Christmas Theme",
    "description": "Ugly sweaters. Santa relay and Christmas giveaways."
+  },
+  {
+   "date": "Dec 16, 2026",
+   "time": "6:00pm - 8:00pm",
+   "home": "OP SR.WBB",
+   "opponent": "Fort Erie",
+   "stream": "https://live.athleteinstitute.ca/events/orangeville-prep-wbb-vs-fort-erie",
+   "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie"
+  },
+  {
+   "date": "Dec 16, 2026",
+   "time": "8:00pm - 10:00pm",
+   "home": "OP JR.WBB",
+   "opponent": "Fort Erie Junior"
   },
   {
    "date": "Jan 7, 2027",
