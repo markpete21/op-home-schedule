@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:05+00:00",
+ "updated": "2026-10-20T10:01+00:00",
  "source": "Home Games sheet",
  "games": [
   {
@@ -219,6 +219,39 @@
    "tickets": "https://tickets.athleteinstitute.ca/event/orangeville-prep-wbb-vs-fort-erie-copy-qtz0-copy-jyon-copy-xk75-copy-avv4",
    "theme": "Senior Night",
    "description": "Senior Night"
+  },
+  {
+   "date": "Oct 20, 2026",
+   "time": "6:00pm - 8:00pm",
+   "home": "OP SR.WBB",
+   "opponent": "Crestwood Blue",
+   "description": "Dance and cheer at half; women's rep and alumni honoured."
+  },
+  {
+   "date": "Oct 27, 2026",
+   "time": "8:00pm - 10:00pm",
+   "home": "OP Varsity 1",
+   "opponent": "Fort Erie",
+   "description": "Costumes get in free. Costume contest and candy toss giveaways."
+  },
+  {
+   "date": "Nov 10, 2026",
+   "time": "8:00pm - 10:00pm",
+   "home": "OP Varsity 1",
+   "opponent": "St.Jude's Blue",
+   "description": "Band, contests, prizes and giveaways."
+  },
+  {
+   "date": "Dec 8, 2026",
+   "time": "6:00pm - 8:00pm",
+   "home": "OP SR.WBB",
+   "opponent": "Niagara Prep"
+  },
+  {
+   "date": "Dec 16, 2026",
+   "time": "6:00pm - 8:00pm",
+   "home": "OP SR.WBB",
+   "opponent": "Fort Erie"
   }
  ]
 }
