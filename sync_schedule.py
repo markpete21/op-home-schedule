@@ -35,7 +35,10 @@ def main(path):
             print("WARNING: unrecognised column '%s' (not published). Ask Claude to map it if it should appear on the site." % c.strip())
     fallback = json.load(open(os.path.join(HERE, "descriptions.json"), encoding="utf-8"))
     games = []
+    numbered = rows[hi][0].strip() == "#"  # the real table numbers every game in its "#" column
     for r in rows[hi + 1:]:
+        if numbered and not r[0].strip().isdigit():
+            continue  # notes or working lists below/beside the table, not games
         g = {}
         for i, k in enumerate(cols):
             if k and k not in g:
